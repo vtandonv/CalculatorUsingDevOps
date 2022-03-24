@@ -1,2 +1,2 @@
 [ubuntu18]
-192.168.1.2 ansible_user=vaibhav
+172.16.129.47 ansible_user=user
